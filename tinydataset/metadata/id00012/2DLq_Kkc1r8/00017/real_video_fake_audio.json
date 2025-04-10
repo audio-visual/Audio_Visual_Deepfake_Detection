@@ -1,0 +1,239 @@
+{
+    "file": "id00012/2DLq_Kkc1r8/00017/real_video_fake_audio.mp4",
+    "original": "id00012/2DLq_Kkc1r8/00017/real.mp4",
+    "split": "train",
+    "modify_type": "audio_modified",
+    "audio_model": "yourtts",
+    "fake_segments": [
+        [
+            4.82,
+            5.1
+        ]
+    ],
+    "audio_fake_segments": [
+        [
+            4.82,
+            5.1
+        ]
+    ],
+    "visual_fake_segments": [],
+    "video_frames": 240,
+    "audio_frames": 154496,
+    "operations": [
+        {
+            "operation": "replace",
+            "old_word": "happy",
+            "new_word": "sad",
+            "index": 21,
+            "start": 4.82,
+            "end": 4.98
+        }
+    ],
+    "transcripts": [
+        {
+            "word": "Getting",
+            "start": 0.18,
+            "end": 0.54
+        },
+        {
+            "word": "to",
+            "start": 0.54,
+            "end": 0.7
+        },
+        {
+            "word": "come",
+            "start": 0.7,
+            "end": 0.82
+        },
+        {
+            "word": "back",
+            "start": 0.82,
+            "end": 1.0
+        },
+        {
+            "word": "for",
+            "start": 1.0,
+            "end": 1.12
+        },
+        {
+            "word": "the",
+            "start": 1.12,
+            "end": 1.26
+        },
+        {
+            "word": "six",
+            "start": 1.26,
+            "end": 1.56
+        },
+        {
+            "word": "and",
+            "start": 1.56,
+            "end": 2.02
+        },
+        {
+            "word": "really",
+            "start": 2.02,
+            "end": 2.32
+        },
+        {
+            "word": "finish",
+            "start": 2.32,
+            "end": 2.62
+        },
+        {
+            "word": "out",
+            "start": 2.62,
+            "end": 2.78
+        },
+        {
+            "word": "strong",
+            "start": 2.78,
+            "end": 3.1
+        },
+        {
+            "word": "like",
+            "start": 3.1,
+            "end": 3.26
+        },
+        {
+            "word": "this",
+            "start": 3.26,
+            "end": 3.38
+        },
+        {
+            "word": "I",
+            "start": 3.38,
+            "end": 3.46
+        },
+        {
+            "word": "think",
+            "start": 3.46,
+            "end": 3.58
+        },
+        {
+            "word": "that",
+            "start": 3.58,
+            "end": 3.68
+        },
+        {
+            "word": "we",
+            "start": 3.68,
+            "end": 3.84
+        },
+        {
+            "word": "all",
+            "start": 3.84,
+            "end": 4.18
+        },
+        {
+            "word": "I'm",
+            "start": 4.18,
+            "end": 4.68
+        },
+        {
+            "word": "really",
+            "start": 4.68,
+            "end": 4.82
+        },
+        {
+            "word": "sad",
+            "start": 4.82,
+            "end": 5.1
+        },
+        {
+            "word": "when",
+            "start": 5.1,
+            "end": 5.24
+        },
+        {
+            "word": "I",
+            "start": 5.24,
+            "end": 5.34
+        },
+        {
+            "word": "read",
+            "start": 5.34,
+            "end": 5.54
+        },
+        {
+            "word": "the",
+            "start": 5.54,
+            "end": 5.7
+        },
+        {
+            "word": "finale",
+            "start": 5.7,
+            "end": 5.96
+        },
+        {
+            "word": "and",
+            "start": 5.96,
+            "end": 6.14
+        },
+        {
+            "word": "stuff",
+            "start": 6.14,
+            "end": 6.3
+        },
+        {
+            "word": "I",
+            "start": 6.3,
+            "end": 6.44
+        },
+        {
+            "word": "thought",
+            "start": 6.44,
+            "end": 6.76
+        },
+        {
+            "word": "I",
+            "start": 6.76,
+            "end": 7.18
+        },
+        {
+            "word": "couldn't",
+            "start": 7.18,
+            "end": 7.6
+        },
+        {
+            "word": "imagine",
+            "start": 7.6,
+            "end": 7.88
+        },
+        {
+            "word": "a",
+            "start": 7.88,
+            "end": 8.16
+        },
+        {
+            "word": "better",
+            "start": 8.16,
+            "end": 8.42
+        },
+        {
+            "word": "way",
+            "start": 8.42,
+            "end": 8.74
+        },
+        {
+            "word": "to",
+            "start": 8.74,
+            "end": 8.84
+        },
+        {
+            "word": "finish",
+            "start": 8.84,
+            "end": 9.04
+        },
+        {
+            "word": "things",
+            "start": 9.04,
+            "end": 9.28
+        },
+        {
+            "word": "so",
+            "start": 9.28,
+            "end": 9.46
+        }
+    ]
+}

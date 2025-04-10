@@ -1,0 +1,4 @@
+# ninja log v5
+0	27034	1715654091136877837	/home/ubuntu/sn15_share_dir/av_deepfake/UMMAFormer/libs/utils/build/temp.linux-x86_64-3.8/csrc/nms_cpu.o	9d96232047400efb
+22	15173	1715742886001829695	/home/ubuntu/sn15_share_dir/av_deepfake/UMMAFormer/libs/utils/build/temp.linux-x86_64-3.8/csrc/nms_cpu.o	5cff5327faf8f0e0
+89	29402	1716033305207860210	/home/ubuntu/sn15_share_dir/av_deepfake/UMMAFormer/libs/utils/build/temp.linux-x86_64-3.8/csrc/nms_cpu.o	f389f7d62a94ca0e

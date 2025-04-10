@@ -1,0 +1,169 @@
+{
+    "file": "id00012/2DLq_Kkc1r8/00018/real_video_fake_audio.mp4",
+    "original": "id00012/2DLq_Kkc1r8/00018/real.mp4",
+    "split": "train",
+    "modify_type": "audio_modified",
+    "audio_model": "yourtts",
+    "fake_segments": [
+        [
+            5.48,
+            5.66
+        ]
+    ],
+    "audio_fake_segments": [
+        [
+            5.48,
+            5.66
+        ]
+    ],
+    "visual_fake_segments": [],
+    "video_frames": 176,
+    "audio_frames": 113216,
+    "operations": [
+        {
+            "operation": "replace",
+            "old_word": "good",
+            "new_word": "bad",
+            "index": 20,
+            "start": 5.48,
+            "end": 5.88
+        }
+    ],
+    "transcripts": [
+        {
+            "word": "I",
+            "start": 0.0,
+            "end": 0.16
+        },
+        {
+            "word": "thought",
+            "start": 0.16,
+            "end": 0.38
+        },
+        {
+            "word": "that",
+            "start": 0.38,
+            "end": 0.5
+        },
+        {
+            "word": "there",
+            "start": 0.5,
+            "end": 0.6
+        },
+        {
+            "word": "might",
+            "start": 0.6,
+            "end": 0.74
+        },
+        {
+            "word": "be",
+            "start": 0.74,
+            "end": 0.84
+        },
+        {
+            "word": "a",
+            "start": 0.84,
+            "end": 0.94
+        },
+        {
+            "word": "chance",
+            "start": 0.94,
+            "end": 1.26
+        },
+        {
+            "word": "because",
+            "start": 1.26,
+            "end": 1.74
+        },
+        {
+            "word": "there's",
+            "start": 1.74,
+            "end": 2.16
+        },
+        {
+            "word": "artifacts",
+            "start": 2.16,
+            "end": 2.8
+        },
+        {
+            "word": "that",
+            "start": 2.8,
+            "end": 3.26
+        },
+        {
+            "word": "would",
+            "start": 3.26,
+            "end": 3.44
+        },
+        {
+            "word": "specifically",
+            "start": 3.44,
+            "end": 3.96
+        },
+        {
+            "word": "do",
+            "start": 3.96,
+            "end": 4.24
+        },
+        {
+            "word": "that.",
+            "start": 4.24,
+            "end": 4.46
+        },
+        {
+            "word": "So",
+            "start": 4.64,
+            "end": 4.76
+        },
+        {
+            "word": "I",
+            "start": 4.76,
+            "end": 4.94
+        },
+        {
+            "word": "felt",
+            "start": 4.94,
+            "end": 5.14
+        },
+        {
+            "word": "pretty",
+            "start": 5.14,
+            "end": 5.48
+        },
+        {
+            "word": "bad",
+            "start": 5.48,
+            "end": 5.66
+        },
+        {
+            "word": "about",
+            "start": 5.66,
+            "end": 5.82
+        },
+        {
+            "word": "it.",
+            "start": 5.82,
+            "end": 5.9
+        },
+        {
+            "word": "But",
+            "start": 5.94,
+            "end": 6.02
+        },
+        {
+            "word": "I",
+            "start": 6.02,
+            "end": 6.14
+        },
+        {
+            "word": "didn't",
+            "start": 6.14,
+            "end": 6.32
+        },
+        {
+            "word": "know.",
+            "start": 6.32,
+            "end": 6.46
+        }
+    ]
+}

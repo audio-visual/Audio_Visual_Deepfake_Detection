@@ -1,0 +1,119 @@
+{
+    "file": "id00012/_raOc3-IRsw/00110/fake_video_real_audio.mp4",
+    "original": "id00012/_raOc3-IRsw/00110/real.mp4",
+    "split": "train",
+    "modify_type": "visual_modified",
+    "audio_model": null,
+    "fake_segments": [
+        [
+            0.46,
+            0.78
+        ]
+    ],
+    "audio_fake_segments": [],
+    "visual_fake_segments": [
+        [
+            0.46,
+            0.78
+        ]
+    ],
+    "video_frames": 134,
+    "audio_frames": 86016,
+    "operations": [
+        {
+            "operation": "replace",
+            "old_word": "true.",
+            "new_word": "false.",
+            "index": 1,
+            "start": 0.46,
+            "end": 0.78
+        }
+    ],
+    "transcripts": [
+        {
+            "word": "Absolutely",
+            "start": 0.0,
+            "end": 0.46
+        },
+        {
+            "word": "false.",
+            "start": 0.46,
+            "end": 0.78
+        },
+        {
+            "word": "We're",
+            "start": 0.96,
+            "end": 0.96
+        },
+        {
+            "word": "both",
+            "start": 0.96,
+            "end": 1.22
+        },
+        {
+            "word": "actors,",
+            "start": 1.22,
+            "end": 1.7
+        },
+        {
+            "word": "we're",
+            "start": 1.88,
+            "end": 1.92
+        },
+        {
+            "word": "twins",
+            "start": 1.92,
+            "end": 2.28
+        },
+        {
+            "word": "and",
+            "start": 2.28,
+            "end": 2.48
+        },
+        {
+            "word": "we",
+            "start": 2.48,
+            "end": 2.6
+        },
+        {
+            "word": "work",
+            "start": 2.6,
+            "end": 2.88
+        },
+        {
+            "word": "in",
+            "start": 2.88,
+            "end": 3.08
+        },
+        {
+            "word": "genre",
+            "start": 3.08,
+            "end": 3.96
+        },
+        {
+            "word": "sci",
+            "start": 3.96,
+            "end": 4.3
+        },
+        {
+            "word": "-fi",
+            "start": 4.3,
+            "end": 4.58
+        },
+        {
+            "word": "stuff",
+            "start": 4.58,
+            "end": 4.84
+        },
+        {
+            "word": "a",
+            "start": 4.84,
+            "end": 4.96
+        },
+        {
+            "word": "lot.",
+            "start": 4.96,
+            "end": 5.14
+        }
+    ]
+}

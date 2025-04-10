@@ -25,7 +25,7 @@ We primarily employed the UMMAFormer method:
 
 
 
-**Final result**
+**Final result for the localization**
 
 |Method | Modality | Score|
 |-------|----------|------|
